@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I’m Joy!
 
-<!--
-**tingyuau/tingyuau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Systems Engineer | MDO & MBSE Innovator | Founder of OptimiSE
 
-Here are some ideas to get you started:
+I’m a Systems Engineer by trade and an innovator at heart. My passion lies in tackling the challenges of developing complex multidisciplinary systems—from aerospace to emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through Multidisciplinary Design Optimisation (MDO) and Model-Based Systems Engineering (MBSE), I help organisations streamline their design processes, reduce inefficiencies, and unlock better engineering decisions. This passion led me to found OptimiSE and OptimiSE Academy, where I provide consulting services and online courses to empower engineers with cutting-edge methodologies.
+
+#### 🔍 What I Do:
+✅ MDO & MBSE Integration – Bridging disciplines for optimised system design.
+✅ Consulting & Training – Helping engineers and organisations improve digital engineering workflows.
+✅ Content Creation – Sharing insights and strategies for mastering MDO and MBSE.
+
+💡 If you’re curious about digital engineering, design optimisation, or how to advance your engineering career, let’s connect!
+
+📬 Feel free to reach out!
